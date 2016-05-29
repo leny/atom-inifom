@@ -1,0 +1,12 @@
+{
+  "name": "inifom",
+  "version": "0.0.1",
+  "main": "./lib/main",
+  "description": "Install packages, theme & config to kickstart with Atom.",
+  "repository": "https://github.com/leny/atom-inifom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.7"
+  },
+  "dependencies": {}
+}

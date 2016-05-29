@@ -1,0 +1,6 @@
+# With the success of Atom, it's really difficult to choose keybindings that
+# will not enter in conflict whit anyone else's packages, so I let this file
+# empty to set your own keybindings.
+
+# Besides that, inifòm is not the package you will execute on a daily-basis,
+# I think that a keystroke will risk to launch it by accident, which isn't cool.
